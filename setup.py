@@ -4,9 +4,9 @@ with open("README.md","r",encoding="utf-8") as f:
     long_description=f.read()
 
 __version__="0.0.0"
-REPO_NAME="cnn-classifier"
+REPO_NAME="cnnclassifier"
 AUTHOR_USER_NAME="Rhythm1821"
-SRC_REPO="cnn-classifier"
+SRC_REPO="cnnclassifier"
 AUTHOR_EMAIL="alamrawat1821@gmail.com"
 
 setuptools.setup(
